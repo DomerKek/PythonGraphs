@@ -1,4 +1,4 @@
-#Author: Mykola Halynsky
+#Author: Vladyslav Postrelko
 from Graph import Graph
 
 my_graph = Graph("dir/data.txt", sep=',', is_directed=True)
