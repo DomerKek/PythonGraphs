@@ -1,4 +1,4 @@
-#Author: Mykola Halynskyi
+#Author: Vladyslav Postrelko
 import math
 
 import networkx as nx
